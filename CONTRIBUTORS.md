@@ -52,6 +52,7 @@
  - [MinecraftPlaye](https://github.com/MinecraftPlaye)
  - [Matthew Jones](https://github.com/matthew-jones-uk)
  - [taku0](https://github.com/taku0)
+ - [Peter Spenler](https://github.com/peterspenler)
 
 # Emby Contributors
 
@@ -116,3 +117,5 @@
  - [Tim Hobbs](https://github.com/timhobbs)
  - [SvenVandenbrande](https://github.com/SvenVandenbrande)
  - [jomp16](https://github.com/jomp16)
+ - [Leon de Klerk](https://github.com/leondeklerk)
+ - [CrispyBaguette](https://github.com/CrispyBaguette)
